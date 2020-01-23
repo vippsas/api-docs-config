@@ -1,0 +1,52 @@
+# API documentation configuration file
+# Used for https://vipps.no/developer-pages
+# This file will be fetched by the user's browser
+# Do not store personal or confidental information in this file
+
+# Short name of the API
+apiShortName: eCommerce
+
+# This will appear as the title on the API page
+apiLongName: Vipps eCommerce API
+
+# Short introduction to the API
+introduction: Get Vipps checkout on your webstore
+
+# The name of the group in Vipps that is responsible for maintaining the code
+# This does not appar on the page
+owner: Integration Team
+
+# GitHub url of the repository
+githubRepo: https://github.com/vippsas/vipps-ecom-api
+
+# List of markdown files
+# - title: Short name of the document to be displayed. (eg. Getting started)
+# - slug: Used to identify the document, must be unique. (eg. getting-started)
+# - description: Short text of what useful information is contained in the document. (eg. Start here if you plan to integrate with our API)
+# - markdownUrl: Url to the markdown source file (eg. http://vipps.no/dev/vipps-ecom-api/master/vipps-ecom-api.md)
+# - githubUrl: (optional) Url to the github frontend, where the user can make issues and PRs
+resources:
+  - title: Documentation
+    slug: documentation
+    description: Read the documentation of our API
+    markdownUrl: vipps-ecom-api/master/vipps-ecom-api.md
+    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api.md
+  - title: FAQ
+    slug: faq
+    description: Check the frequently asked questions
+    markdownUrl:  vipps-ecom-api/master/vipps-ecom-api-faq.md
+    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md
+  - title: Getting Started
+    slug: getting-started
+    description: Start here, if you plan to integrate with our API
+    markdownUrl: vipps-developers/master/vipps-getting-started.md
+
+# External links to developer resources at the top of the documentation page
+# Optional
+linklist:
+  - title: Getting Started
+    url: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
+  - title: Postman
+    url: https://github.com/vippsas/vipps-ecom-api/tree/master/tools
+  - title: Swagger
+    url: https://vippsas.github.io/vipps-ecom-api/
