@@ -4,13 +4,13 @@
 # Do not store personal or confidental information in this file
 
 # Short name of the API
-apiShortName: Getting Started
+apiShortName: Overview
 
 # This will appear as the title on the API page
-apiLongName: Getting Started
+apiLongName: Overview
 
 # Short introduction to the API
-introduction: Getting Started guide for Vipps APIs
+introduction: Overview of Vipps services
 
 # The name of the group in Vipps that is responsible for maintaining the code
 # This does not appar on the page
@@ -28,14 +28,19 @@ githubRepo: https://github.com/vippsas/vipps-developers
 resources:
   - title: Introduction
     slug: introduction
-    description: Read me first
+    description: Information about test environment, test app and Vipps servers
     markdownUrl: vipps-developers/master/README.md
     githubUrl: https://github.com/vippsas/vipps-developers/blob/master/README.md
   - title: Get Started
     slug: get-started
-    description: Get started with Vipps APIs
+    description: Get started guide for Vipps APIs
     markdownUrl: vipps-developers/master/vipps-getting-started.md
     githubUrl: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
+  - title: Postman Overview
+    slug: postman-overview
+    description: An overview of Postman resources for all Vipps APIs.
+    markdownUrl: vipps-developers/blob/master/postman-overview.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/postman-overview.md
   - title: Design guidelines
     slug: design-guidelines
     description: These guidelines will help you use the Vipps payments
@@ -43,7 +48,7 @@ resources:
     githubUrl: https://github.com/vippsas/vipps-design-guidelines/blob/master/README.md
   - title: Contact Us
     slug: contact
-    description: Contact information for technical questions
+    description: Contact information for technical support
     markdownUrl: vipps-developers/master/contact.md
     githubUrl: https://github.com/vippsas/vipps-developers/blob/master/contact.md
 
