@@ -29,17 +29,17 @@ resources:
   - title: Introduction
     slug: introduction
     description: Information about test environment, terminology and valid banks
-    markdownUrl: vipps-invoice-api/blob/master/README.md
+    markdownUrl: vipps-invoice-api/master/README.md
     githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/README.md
   - title: Documentation
     slug: documentation
     description: Read the documentation of our invoice API
-    markdownUrl: vipps-invoice-api/blob/master/vipps-invoice-api.md
+    markdownUrl: vipps-invoice-api/master/vipps-invoice-api.md
     githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/vipps-invoice-api.md
   - title: Checklist
     slug: checklist
     description: Checklist for going live in production
-    markdownUrl: vipps-invoice-api/blob/master/vipps-integrator-checklist.md
+    markdownUrl: vipps-invoice-api/master/vipps-integrator-checklist.md
     githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/vipps-integrator-checklist.md
 
 # External links to developer resources at the top of the documentation page
@@ -53,13 +53,3 @@ linklist:
     url: https://vippsas.github.io/vipps-invoice-api/
   - title: Devloper portal
     url: https://portal.vipps.no
-
-
-
-
-####
-####
-####
-####
-####
-####

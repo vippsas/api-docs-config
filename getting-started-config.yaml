@@ -39,7 +39,7 @@ resources:
   - title: Postman Overview
     slug: postman-overview
     description: An overview of Postman resources for all Vipps APIs.
-    markdownUrl: vipps-developers/blob/master/postman-overview.md
+    markdownUrl: vipps-developers/master/postman-overview.md
     githubUrl: https://github.com/vippsas/vipps-developers/blob/master/postman-overview.md
   - title: Design guidelines
     slug: design-guidelines
