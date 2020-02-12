@@ -4,43 +4,43 @@
 # Do not store personal or confidental information in this file
 
 # Short name of the API
-apiShortName: eCommerce
+apiShortName: Invoice
 
 # This will appear as the title on the API page
-apiLongName: Vipps eCommerce API
+apiLongName: Vipps Invoice API
 
 # Short introduction to the API
-introduction: Get Vipps checkout on your webstore
+introduction: Invoice API for ISP and IPP
 
 # The name of the group in Vipps that is responsible for maintaining the code
 # This does not appar on the page
-owner: Integration Team
+owner: VippsAS
 
 # GitHub url of the repository
-githubRepo: https://github.com/vippsas/vipps-ecom-api
+githubRepo: https://github.com/vippsas/vipps-invoice-api
 
 # List of markdown files
 # - title: Short name of the document to be displayed. (eg. Getting started)
 # - slug: Used to identify the document, must be unique. (eg. getting-started)
 # - description: Short text of what useful information is contained in the document. (eg. Start here if you plan to integrate with our API)
-# - markdownUrl: Url to the markdown source file (eg. http://vipps.no/dev/vipps-ecom-api/master/vipps-ecom-api.md)
-# - githubUrl: (optional) Url to the github frontend, where the user can make issues and PRs
+# - markdownUrl: Url to the markdown source file (eg. vipps-ecom-api/master/vipps-ecom-api.md)
+# - githubUrl: (optional) Url to GitHub, where the user can make issues and PRs
 resources:
+  - title: Introduction
+    slug: introduction
+    description: Information about test environment, terminology and valid banks
+    markdownUrl: vipps-invoice-api/master/README.md
+    githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/README.md
   - title: Documentation
     slug: documentation
-    description: Read the documentation of our ecom API
-    markdownUrl: vipps-ecom-api/master/vipps-ecom-api.md
-    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api.md
-  - title: FAQ
-    slug: faq
-    description: Check the frequently asked questions
-    markdownUrl:  vipps-ecom-api/master/vipps-ecom-api-faq.md
-    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md
+    description: Read the documentation of our invoice API
+    markdownUrl: vipps-invoice-api/master/vipps-invoice-api.md
+    githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/vipps-invoice-api.md
   - title: Checklist
     slug: checklist
     description: Checklist for going live in production
-    markdownUrl: vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
-    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
+    markdownUrl: vipps-invoice-api/master/vipps-integrator-checklist.md
+    githubUrl: https://github.com/vippsas/vipps-invoice-api/blob/master/vipps-integrator-checklist.md
 
 # External links to developer resources at the top of the documentation page
 # Optional
@@ -48,8 +48,8 @@ linklist:
   - title: Getting Started
     url: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
   - title: Postman Collection & Environment
-    url: https://github.com/vippsas/vipps-ecom-api/tree/master/tools
+    url: https://github.com/vippsas/vipps-invoice-api/tree/master/tools
   - title: Swagger
-    url: https://vippsas.github.io/vipps-ecom-api/
+    url: https://vippsas.github.io/vipps-invoice-api/
   - title: Devloper portal
     url: https://portal.vipps.no
