@@ -23,34 +23,34 @@ githubRepo: https://github.com/vippsas/vipps-developers
 # - title: Short name of the document to be displayed. (eg. Getting started)
 # - slug: Used to identify the document, must be unique. (eg. getting-started)
 # - description: Short text of what useful information is contained in the document. (eg. Start here if you plan to integrate with our API)
-# - markdownUrl: Url to the markdown source file (eg. vipps-ecom-api/master/vipps-ecom-api.md)
+# - markdownUrl: Url to the markdown source file (eg. vipps-ecom-api/devpages-restructure/vipps-ecom-api.md)
 # - githubUrl: (optional) Url to GitHub, where the user can make issues and PRs
 resources:
-  - title: Introduction
-    slug: introduction
-    description: Information about test environment, test app and Vipps servers
-    markdownUrl: vipps-developers/master/README.md
-    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/README.md
   - title: Get Started
     slug: get-started
     description: Get started guide for Vipps APIs
-    markdownUrl: vipps-developers/master/vipps-getting-started.md
-    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
-  - title: Postman Overview
-    slug: postman-overview
-    description: An overview of Postman resources for all Vipps APIs.
-    markdownUrl: vipps-developers/master/postman-overview.md
-    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/postman-overview.md
-  - title: Design guidelines
+    markdownUrl: vipps-developers/devpages-restructure/vipps-getting-started.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/vipps-getting-started.md
+  - title: Postman Guide
+    slug: postman-guide
+    description: A guide for using Postman with Vipps APIs, complete with collections and environments
+    markdownUrl: vipps-developers/devpages-restructure/postman-overview.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/postman-overview.md
+  - title: Test Environment
+    slug: test-environment
+    description: An overview of Vipps test environment and test apps
+    markdownUrl: vipps-developers/devpages-restructure/postman-overview.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/postman-overview.md
+  - title: Design Guidelines
     slug: design-guidelines
     description: These guidelines will help you use the Vipps payments
-    markdownUrl: vipps-design-guidelines/master/README.md
-    githubUrl: https://github.com/vippsas/vipps-design-guidelines/blob/master/README.md
+    markdownUrl: vipps-design-guidelines/devpages-restructure/README.md
+    githubUrl: https://github.com/vippsas/vipps-design-guidelines/blob/devpages-restructure/README.md
   - title: Contact Us
     slug: contact
     description: Contact information for technical support
-    markdownUrl: vipps-developers/master/contact.md
-    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/contact.md
+    markdownUrl: vipps-developers/devpages-restructure/contact.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/contact.md
 
 # External links to developer resources at the top of the documentation page
 # Optional
