@@ -39,7 +39,7 @@ resources:
   - title: Checklist
     slug: checklist
     description: Checklist for going live in production
-    markdownUrl: vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
+    markdownUrl: vipps-ecom-api/master/vipps-ecom-api-checklist.md
     githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
 
 # External links to developer resources at the top of the documentation page
