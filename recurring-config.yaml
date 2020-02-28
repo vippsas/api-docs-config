@@ -17,7 +17,7 @@ introduction: Create recurring payments on fixed intervals
 owner: Integration Team
 
 # GitHub url of the repository
-githubRepo: https://github.com/vippsas/vipps-ecom-api
+githubRepo: https://github.com/vippsas/vipps-recurring-api
 
 # List of markdown files
 # - title: Short name of the document to be displayed. (eg. Getting started)
@@ -28,7 +28,7 @@ githubRepo: https://github.com/vippsas/vipps-ecom-api
 resources:
   - title: Documentation
     slug: documentation
-    description: Read the documentation of our ecom API
+    description: Read the documentation of our recurring API
     markdownUrl: vipps-recurring-api/master/vipps-recurring-api.md
     githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api.md
   - title: FAQ
