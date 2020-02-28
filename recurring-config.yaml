@@ -1,0 +1,55 @@
+# API documentation configuration file
+# Used for https://vipps.no/developer-pages
+# This file will be fetched by the user's browser
+# Do not store personal or confidental information in this file
+
+# Short name of the API
+apiShortName: Recurring
+
+# This will appear as the title on the API page
+apiLongName: Vipps Recurring API
+
+# Short introduction to the API
+introduction: Create recurring payments on fixed intervals
+
+# The name of the group in Vipps that is responsible for maintaining the code
+# This does not appar on the page
+owner: Integration Team
+
+# GitHub url of the repository
+githubRepo: https://github.com/vippsas/vipps-recurring-api
+
+# List of markdown files
+# - title: Short name of the document to be displayed. (eg. Getting started)
+# - slug: Used to identify the document, must be unique. (eg. getting-started)
+# - description: Short text of what useful information is contained in the document. (eg. Start here if you plan to integrate with our API)
+# - markdownUrl: Url to the markdown source file (eg. http://vipps.no/dev/vipps-ecom-api/master/vipps-ecom-api.md)
+# - githubUrl: (optional) Url to the github frontend, where the user can make issues and PRs
+resources:
+  - title: Documentation
+    slug: documentation
+    description: Read the documentation of our recurring API
+    markdownUrl: vipps-recurring-api/master/vipps-recurring-api.md
+    githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api.md
+  - title: FAQ
+    slug: faq
+    description: Check the frequently asked questions
+    markdownUrl:  vipps-recurring-api/master/vipps-recurring-api-faq.md
+    githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api-faq.md
+  - title: Checklist
+    slug: checklist
+    description: Checklist for going live in production
+    markdownUrl: vipps-recurring-api/master/vipps-recurring-api-checklist.md
+    githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api-checklist.md
+
+# External links to developer resources at the top of the documentation page
+# Optional
+linklist:
+  - title: Getting Started
+    url: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
+  - title: Postman Collection & Environment
+    url: https://github.com/vippsas/vipps-recurring-api/tree/master/tools
+  - title: Swagger
+    url: https://vippsas.github.io/vipps-recurring-api/
+  - title: Devloper portal
+    url: https://portal.vipps.no
