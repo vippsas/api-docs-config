@@ -2,7 +2,7 @@
 # Used for https://vipps.no/developer-pages
 # This file will be fetched by the user's browser
 # Do not store personal or confidental information in this file
-​
+
 # Short name of the API
 apiShortName: Login
 
