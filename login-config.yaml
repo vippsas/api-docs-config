@@ -1,0 +1,50 @@
+# API documentation configuration file
+# Used for https://vipps.no/developer-pages
+# This file will be fetched by the user's browser
+# Do not store personal or confidental information in this file
+​
+# Short name of the API
+apiShortName: Login
+​
+# This will appear as the title on the API page
+apiLongName: Vipps Login API
+​
+# Short introduction to the API
+introduction: Login with Vipps
+​
+# The name of the group in Vipps that is responsible for maintaining the code
+# This does not appar on the page
+owner: Integration Team
+​
+# GitHub url of the repository
+githubRepo: https://github.com/vippsas/vipps-login-api
+​
+# List of markdown files
+# - title: Short name of the document to be displayed. (eg. Getting started)
+# - slug: Used to identify the document, must be unique. (eg. getting-started)
+# - description: Short text of what useful information is contained in the document. (eg. Start here if you plan to integrate with our API)
+# - markdownUrl: Url to the markdown source file (eg. http://vipps.no/dev/vipps-ecom-api/master/vipps-ecom-api.md)
+# - githubUrl: (optional) Url to the github frontend, where the user can make issues and PRs
+resources:
+  - title: Documentation
+    slug: documentation
+    description: Read the documentation of our login API
+    markdownUrl: vipps-login-api/master/vipps-login-api.md
+    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api.md
+  - title: FAQ
+    slug: faq
+    description: Questions and answers about the Login API
+    markdownUrl:  vipps-login-api/master/vipps-login-api-faq.md
+    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api-faq.md
+​
+# External links to developer resources at the top of the documentation page
+# Optional
+linklist:
+  - title: Getting Started
+    url: https://github.com/vippsas/vipps-developers/blob/master/vipps-getting-started.md
+  - title: Postman Collection & Environment
+    url: https://github.com/vippsas/vipps-login-api/tree/master/tools
+  - title: Swagger
+    url: https://vippsas.github.io/vipps-login-api/
+  - title: Devloper portal
+    url: https://portal.vipps.no
