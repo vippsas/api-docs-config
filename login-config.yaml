@@ -5,20 +5,20 @@
 ​
 # Short name of the API
 apiShortName: Login
-​
+
 # This will appear as the title on the API page
 apiLongName: Vipps Login API
-​
+
 # Short introduction to the API
 introduction: Login with Vipps
-​
+
 # The name of the group in Vipps that is responsible for maintaining the code
 # This does not appar on the page
 owner: Integration Team
-​
+
 # GitHub url of the repository
 githubRepo: https://github.com/vippsas/vipps-login-api
-​
+
 # List of markdown files
 # - title: Short name of the document to be displayed. (eg. Getting started)
 # - slug: Used to identify the document, must be unique. (eg. getting-started)
@@ -36,7 +36,7 @@ resources:
     description: Questions and answers about the Login API
     markdownUrl:  vipps-login-api/master/vipps-login-api-faq.md
     githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api-faq.md
-​
+    
 # External links to developer resources at the top of the documentation page
 # Optional
 linklist:
