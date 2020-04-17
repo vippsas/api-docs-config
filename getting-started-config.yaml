@@ -4,13 +4,13 @@
 # Do not store personal or confidental information in this file
 
 # Short name of the API
-apiShortName: Overview
+apiShortName: Get started
 
 # This will appear as the title on the API page
-apiLongName: Overview
+apiLongName: Get started
 
 # Short introduction to the API
-introduction: Overview of Vipps services
+introduction: Resources for getting started with Vipps services
 
 # The name of the group in Vipps that is responsible for maintaining the code
 # This does not appar on the page
