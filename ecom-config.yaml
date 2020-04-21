@@ -41,6 +41,12 @@ resources:
     description: Checklist for going live in production
     markdownUrl: vipps-ecom-api/master/vipps-ecom-api-checklist.md
     githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
+  - title: How it works
+    slug: how-it-works
+    description: See how payments with Vipps eCommerce works
+    markdownUrl: vipps-ecom-api/master/vipps-ecom-api-howitworks.md
+    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-howitworks.md
+
 
 # External links to developer resources at the top of the documentation page
 # Optional
