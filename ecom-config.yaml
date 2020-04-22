@@ -38,15 +38,9 @@ resources:
     githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md
   - title: Checklist
     slug: checklist
-    description: Checklist for going live in production
+    description: Checklist for integrations
     markdownUrl: vipps-ecom-api/master/vipps-ecom-api-checklist.md
     githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-checklist.md
-  - title: How it works
-    slug: how-it-works
-    description: See how payments with Vipps eCommerce works
-    markdownUrl: vipps-ecom-api/master/vipps-ecom-api-howitworks.md
-    githubUrl: https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-howitworks.md
-
 
 # External links to developer resources at the top of the documentation page
 # Optional
@@ -57,5 +51,5 @@ linklist:
     url: https://github.com/vippsas/vipps-ecom-api/tree/master/tools
   - title: Swagger
     url: https://vippsas.github.io/vipps-ecom-api/
-  - title: Devloper portal
+  - title: Vipps customer portal
     url: https://portal.vipps.no
