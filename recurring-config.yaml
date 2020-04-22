@@ -38,7 +38,7 @@ resources:
     githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api-faq.md
   - title: Checklist
     slug: checklist
-    description: Checklist for going live in production
+    description: Checklist for integrations
     markdownUrl: vipps-recurring-api/master/vipps-recurring-api-checklist.md
     githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api-checklist.md
 
@@ -51,5 +51,5 @@ linklist:
     url: https://github.com/vippsas/vipps-recurring-api/tree/master/tools
   - title: Swagger
     url: https://vippsas.github.io/vipps-recurring-api/
-  - title: Devloper portal
+  - title: Vipps customer portal
     url: https://portal.vipps.no

@@ -46,14 +46,19 @@ resources:
     description: These guidelines will help you use the Vipps payments
     markdownUrl: vipps-design-guidelines/master/README.md
     githubUrl: https://github.com/vippsas/vipps-design-guidelines/blob/master/README.md
+  - title: GitHub resources
+    slug: github-resources
+    description: All developer resources on GitHub
+    markdownUrl: vipps-developers/blob/master/README.md
+    githubUrl: https://github.com/vippsas/
   - title: Contact Us
     slug: contact
-    description: Contact information for technical support
+    description: Contact information for Vipps Integration
     markdownUrl: vipps-developers/devpages-restructure/contact.md
     githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/contact.md
 
 # External links to developer resources at the top of the documentation page
 # Optional
 linklist:
-  - title: Devloper portal
+  - title: Vipps customer portal
     url: https://portal.vipps.no
