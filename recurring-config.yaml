@@ -31,6 +31,11 @@ resources:
     description: Read the documentation of our recurring API
     markdownUrl: vipps-recurring-api/master/vipps-recurring-api.md
     githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api.md
+  - title: How it works
+    slug: how-it-works
+    description: See how recurring payments with Vipps eCommerce works
+    markdownUrl: vipps-ecom-api/master/vipps-recurring-api-howitworks.md
+    githubUrl: https://github.com/vippsas/vipps-recurring-api/blob/master/vipps-recurring-api-howitworks.md
   - title: FAQ
     slug: faq
     description: Check the frequently asked questions
