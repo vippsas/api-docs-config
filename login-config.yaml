@@ -31,6 +31,16 @@ resources:
     description: Read the documentation of our login API
     markdownUrl: vipps-login-api/master/vipps-login-api.md
     githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api.md
+  - title: How it works
+    slug: how-it-works
+    description: See how Vipps login works
+    markdownUrl: vipps-login-api/master/vipps-login-api-howitworks.md
+    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api-howitworks.md
+  - title: Webhooks
+    slug: webhooks
+    description: Webhooks for Vipps login
+    markdownUrl: vipps-login-api/master/vipps-login-webhooks.md
+    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-webhooks.md
   - title: FAQ
     slug: faq
     description: Check the frequently asked questions
