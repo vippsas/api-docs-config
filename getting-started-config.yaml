@@ -54,8 +54,8 @@ resources:
   - title: Contact Us
     slug: contact
     description: Contact information for Vipps Integration
-    markdownUrl: vipps-developers/devpages-restructure/contact.md
-    githubUrl: https://github.com/vippsas/vipps-developers/blob/devpages-restructure/contact.md
+    markdownUrl: vipps-developers/master/contact.md
+    githubUrl: https://github.com/vippsas/vipps-developers/blob/master/contact.md
 
 # External links to developer resources at the top of the documentation page
 # Optional
