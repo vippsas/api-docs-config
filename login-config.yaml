@@ -44,8 +44,8 @@ resources:
   - title: FAQ
     slug: faq
     description: Check the frequently asked questions
-    markdownUrl:  vipps-login-api/master/vipps-login-faq.md
-    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-faq.md
+    markdownUrl:  vipps-login-api/master/vipps-login-api-faq.md
+    githubUrl: https://github.com/vippsas/vipps-login-api/blob/master/vipps-login-api-faq.md
 
 # External links to developer resources at the top of the documentation page
 # Optional
